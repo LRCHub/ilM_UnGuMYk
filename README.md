@@ -1,0 +1,53 @@
+# BL8M – Sacred Light (VIVINOS - ALNST Sub : Luka Part.2)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:19.44] 난 항상 두려움에 갇혀서
+[00:24.19] 티 없는 밤 속, lost in your sight
+[00:28.13] 너의 눈빛 속에 박동하는 나
+[00:32.28] I can't erase (oh)
+[00:41.28] 
+[00:38.22] 접힌 너를 펴 눈 맞춘 나
+[00:43.06] Eyes on me, so easy, right?
+[00:46.85] 우리 같은 시간 속을 헤매도
+[00:50.96] I can't spot (oh)
+[00:59.46] 
+[00:54.42] Every glance feels like a spark, a fuse
+[01:00.15] Tell me, what's the truth?
+[01:03.83] 한순간 안개처럼 사라져
+[01:09.62] Teach me, what's the love?
+[01:22.62] 
+[01:14.25] Under sacred light, we're lifeless star
+[01:19.10] 차갑게 빛날 끝으로
+[01:23.60] Use your sacred eyes, you're my only sight
+[01:28.21] Beg you, take my hand
+[01:38.71] 
+[01:33.72] Ooh-ooh, ooh-ooh
+[01:37.53] You said love, you said love
+[01:43.09] Ooh-ooh, ooh-ooh
+[01:46.98] You could spare a piece
+[01:58.48] 
+[01:52.67] 너는 나를 이해하고 있었어 (있었어)
+[01:57.25] A breathless chase, a restless mind
+[02:01.30] 다시 돌아갈 수 있어, 우리의 찰나
+[02:05.33] Let's visualize it (let's visualize it)
+[02:24.83] 
+[02:08.95] Every glance feels like a spark, a fuse
+[02:14.76] Can see what's the truth?
+[02:27.26] 
+[02:19.20] Under sacred night, you're aimless nova
+[02:24.38] 차갑게 빛날 끝으로
+[02:28.71] Use your sacred eyes, you're my only night
+[02:33.39] Just let this fall into the light
+[02:49.89] 
+[02:38.06] Under sacred light (ooh), we're lifeless star
+[02:43.04] 오직 날 재울 추락을
+[02:47.49] Within holy light, I will hold this tight
+[02:52.09] Only take my hand
+[03:00.59] 
+[02:57.63] Ooh-ooh, ooh-ooh
+[03:01.30] We made love, we made love
+[03:06.86] Ooh-ooh, ooh-ooh
+[03:10.69] We whispered peace
+```
