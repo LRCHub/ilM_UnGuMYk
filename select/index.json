@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Sacred Light (VIVINOS - ALNST Sub : Luka Part.2)",
+  "base_artist": "BL8M",
+  "createdAt": "2026-04-01T03:36:09.720237Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sacred Light (VIVINOS ALNST Sub : Luka Part.2)",
+      "artist": "BL8M",
+      "has_synced": true,
+      "path": "select/01_Sacred_Light_(VIVINOS_ALNST_Sub___Luka_Part.2)_BL8M.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Is Eternal Sacred Light",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/02_Love_Is_Eternal_Sacred_Light_Paul_Simon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lov is Eternal Sacred Light",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/03_Lov_is_Eternal_Sacred_Light_Paul_Simon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Is Eternal Sacred Light",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/04_Love_Is_Eternal_Sacred_Light_Paul_Simon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Without You Near (Alex M.O.R.P.H.'s Sacred Light remix)",
+      "artist": "Markus Schulz and Departure with Gabriel & Dresden",
+      "has_synced": false,
+      "path": "select/05_Without_You_Near_(Alex_M.O.R.P.H.'s_Sacred_Light_remix)_Markus_Schulz_and_Departure_with_Gabriel_&_Dresden.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Is Eternal Sacred Light",
+      "artist": "Simon Paul",
+      "has_synced": true,
+      "path": "select/06_Love_Is_Eternal_Sacred_Light_Simon_Paul.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sacred Light",
+      "artist": "BL8M",
+      "has_synced": true,
+      "path": "select/07_Sacred_Light_BL8M.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "006 Love Is Eternal Sacred Light",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/08_006_Love_Is_Eternal_Sacred_Light_Paul_Simon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Is An Eternal Sacred Light",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/09_Love_Is_An_Eternal_Sacred_Light_Paul_Simon.lrc"
+    }
+  ]
+}
